@@ -100,7 +100,7 @@ Make sure you have Python 3 installed. You can check with:
 
 ### Clone the Repository
 
-`git clone https://github.com/your-username/py-games.git`
+`git clone https://github.com/dev-anony/py-games.git`
 `cd python-games`
 
 ### Run a Game
