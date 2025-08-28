@@ -1,2 +1,2 @@
 # py-games
-Console games written ni Python
+Console games written in Python
